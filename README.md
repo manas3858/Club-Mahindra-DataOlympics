@@ -1,4 +1,4 @@
-# Club-Mahindra-DataOlympics
+# Club-Mahindra-DataOlympics on Analytics Vidhya
 
 Problem Statement
 

@@ -12,5 +12,3 @@ Following are some benefits that the model to predict the spend by a member in t
 This solution was in Top 10% pool securing a rank of 92 out of 978 participants.
 
 Contest Link - https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/
-
-Username - manas71

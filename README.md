@@ -11,4 +11,6 @@ Food & Beverages Spend Prediction in Club Mahindra Resorts Club Mahindra (Club M
   
 Given the information related to resort, club member, reservation etc. the task is to predict average spend per room night on food and beverages for the each reservation in the test set.
 
+This solution was in Top 10% pool securing a rank of 92 out of 978 participants.
 Contest Link - https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/
+Username - manas71

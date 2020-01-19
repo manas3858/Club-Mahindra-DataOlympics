@@ -9,6 +9,6 @@ Following are some benefits that the model to predict the spend by a member in t
   3. Providing members in the resort with a customized experience and offers
   4. Help resort kitchen to plan the inventory and food quantity to be prepared in advance
 
-This solution was in Top 10% pool securing a rank of 92 out of 978 participants.
+This solution uses ensmeble of LightGBM, CatBoost and Lasso Regressions. The solution was in Top 10% pool securing a rank of 92 out of 978 participants.
 
 Contest Link - https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/
